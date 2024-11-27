@@ -3,7 +3,7 @@
 Welcome to my project on exploring Airbnb market trends in New York City! New York is one of the most-visited cities in the world, and Airbnb plays a significant role in meeting the high demand for temporary lodging. In this analysis, I explored 2019 Airbnb data to uncover insights into pricing, room types, and reviews. I combined data from multiple formats, including CSV, TSV, and Excel files, to perform this analysis using Python and Jupyter Notebook.
 
 ## View the Notebook
-You can check out the full analysis here: [View Notebook](https://nbviewer.org/github/caryhtan/Exploring-Airbnb-Market-Trends/blob/master/notebook.ipynb)
+You can check out the full analysis here: [View Notebook](https://nbviewer.org/github/caryhtan/Exploring-Airbnb-Market-Trends/blob/master/notebook.ipynb?flush_cache=true)
 
 ## What I Did
 I focused on answering the following key questions:
